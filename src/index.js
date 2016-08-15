@@ -5,5 +5,4 @@ export default class Index{
   sayHello(toWhom){
     return 'Hello ' + toWhom;
   }
-
 }
